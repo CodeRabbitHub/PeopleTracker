@@ -1,6 +1,8 @@
 ## Geographical Movement Monitoring using Python YOLO, ByteTrack, and OpenCV
 
-Welcome to the official repository for our cutting-edge project on Geographical Movement Monitoring. In an increasingly interconnected world, understanding and tracking the movement of individuals between diverse geographical regions has become a critical endeavor. Leveraging the power of state-of-the-art technologies, this project combines Python YOLO, ByteTrack, and OpenCV to provide a robust and comprehensive solution for real-time monitoring of individuals' movements.
+Welcome to the official repository for our cutting-edge project on Geographical Movement Monitoring. In an increasingly interconnected world, understanding and tracking the movement of individuals between diverse geographical regions has become a critical endeavor. Leveraging the power of state-of-the-art technologies, this project combines Python YOLO, ByteTrack, and OpenCV to provide a robust and comprehensive solution for real-time monitoring of individuals' movements.  
+
+
 
 ![](https://github.com/luckyrabbit85/PeopleTracker/blob/dev/project_demo.gif)
 
