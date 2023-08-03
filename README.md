@@ -7,6 +7,15 @@ Welcome to the official repository for our cutting-edge project on Geographical 
 
 ![](https://github.com/luckyrabbit85/PeopleTracker/blob/dev/project_demo.gif)
 
+
+Our solution aims to provide a professional-grade tool for various applications, including but not limited to:
+  
++ Border security and surveillance
++ Urban planning and crowd management
++ Epidemiological studies and disease spread analysis
++ Transportation and traffic analysis
+By utilizing computer vision algorithms and deep learning models, our project opens doors to unparalleled insights into human mobility patterns, allowing stakeholders to make informed decisions based on real-time, granular data.
+
 ### **Key Features**
 + Accurate Tracking: Our implementation harnesses the capabilities of YOLO and ByteTrack to achieve high-precision tracking of individuals across diverse landscapes.
 + Real-time Analysis: The integration of OpenCV ensures real-time monitoring and analysis of movement patterns, enabling prompt decision-making.
