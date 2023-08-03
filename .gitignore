@@ -160,4 +160,13 @@ cython_debug/
 #.idea/
 
 # Videos
-.mp4
+*.mp4
+
+# VSCode
+.vscode/
+
+# modelweight
+*.pt
+
+# dll files
+*.dll
