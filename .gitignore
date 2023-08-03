@@ -161,3 +161,9 @@ cython_debug/
 
 # Videos
 .mp4
+
+# VSCode
+.vscode/
+
+# modelweight
+*.pt
