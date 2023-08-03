@@ -13,7 +13,8 @@ Our solution aims to provide a professional-grade tool for various applications,
 + Border security and surveillance
 + Urban planning and crowd management
 + Epidemiological studies and disease spread analysis
-+ Transportation and traffic analysis  
++ Transportation and traffic analysis
+
 By utilizing computer vision algorithms and deep learning models, our project opens doors to unparalleled insights into human mobility patterns, allowing stakeholders to make informed decisions based on real-time, granular data.
 
 ### **Key Features**
